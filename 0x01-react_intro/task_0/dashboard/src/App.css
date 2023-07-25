@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  padding: 1em;
+}
+
+.App-logo {
+  height: 20vmin;
+  pointer-events: none;
+}
+
+
+.App-header {
+
+  /* display: flex;
+  justify-content: flex-start; */
+}
+
+.App-header h1{
+  color: red;
+  float: right;
+  padding-right: 800px;
+}
+
+.App-header body {
+  /* display: flex; */
+  padding: 3em;
+  border-top: 4px solid red;
+  height: 300px;
+}
+
+.App-header body p{
+  float: left;
+}
+
+.App-footer{
+  border-top: 4px solid red;
+
+  font-style: italic;
+  text-align: center;
+}
