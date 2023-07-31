@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  padding: 1em;
+}
+
+.App-header body p{
+  float: left;
+}
+
+.App-body label, .App-body input, .App-body button{
+  float: left;
+  justify-content: space-between;
+
+}

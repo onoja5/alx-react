@@ -1,0 +1,17 @@
+.App-header h1{
+    color: red;
+    float: right;
+    padding-right: 800px;
+  }
+
+  .App-logo {
+    height: 20vmin;
+    pointer-events: none;
+  }
+
+  .App-header {
+    /* display: flex; */
+    padding: 1em;
+    /* height: 300px; */
+  }
+  

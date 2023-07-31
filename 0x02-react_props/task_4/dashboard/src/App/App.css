@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  padding: 1em;
+  position: relative;
+  min-height: 100vh;
+}
+
+.App-header body p{
+  float: left;
+}
+
+.App-body label, .App-body input, .App-body button{
+  float: left;
+  justify-content: space-between;
+
+
+}
+
+body{
+  position: relative;
+}
+

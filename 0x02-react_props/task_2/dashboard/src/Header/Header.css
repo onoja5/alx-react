@@ -1,0 +1,10 @@
+.App-header h1{
+    color: red;
+    float: right;
+    padding-right: 800px;
+  }
+
+  .App-logo {
+    height: 20vmin;
+    pointer-events: none;
+  }
